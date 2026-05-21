@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://celebmatch.vercel.app/sitemap.xml
