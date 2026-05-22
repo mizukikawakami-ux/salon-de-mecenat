@@ -324,6 +324,17 @@ section { position: relative; padding: calc(7rem * var(--s)) 2rem; }
   margin-top: 0.4em;
 }
 
+.hero-clarify {
+  font-family: var(--font-serif-jp);
+  font-weight: 300;
+  font-size: clamp(0.82rem, 1.1vw, 0.95rem);
+  letter-spacing: 0.2em;
+  color: var(--ink-muted);
+  margin-bottom: 3rem;
+  position: relative;
+  z-index: 2;
+}
+
 .hero-actions {
   display: flex;
   gap: 1.5rem;
